@@ -1,6 +1,6 @@
 📘 Description
 
-The Student Score Prediction project uses a simple linear regression model to predict a student’s exam score based on the number of study hours.
+The Student Score Prediction project uses a simple linear regression model and Polynomial regression to predict a student’s exam score based on the number of study hours.
 This project demonstrates the basic steps of building a machine learning model — from data exploration to model evaluation — using Python and popular data science libraries.
 
 📂 Dataset
